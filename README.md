@@ -1,5 +1,4 @@
 # this is a bash script by PWB
-
 <p>To make it run,you should:</p>
 <p>1.open your terminal,</p>
 <p>2.change this script mod using command:</p>
