@@ -2,7 +2,8 @@
 # this is a bash script by PWB
 
 To make it run,you should:
-1.open your terminal,
-2.change this script mod using command:
-  chmod +x run.sh
-3.use command "./run.sh" to run it
+===
+<p>1.open your terminal,</p>
+<p>2.change this script mod using command:</p>
+  <code>chmod +x run.sh</code>
+<p>3.use command <code>"./run.sh"</code> to run it</p>
